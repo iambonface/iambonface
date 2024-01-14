@@ -17,6 +17,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambonface&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/iambonface/count.svg)
+
+
 <!--
 **iambonface/iambonface** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

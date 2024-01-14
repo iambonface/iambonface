@@ -4,6 +4,10 @@
 -  💬 Ask me about compliance screening and monitoring
 -  📫 How to reach me: @iambonface
 -  ⚡ Fun fact: I quit my job and migrated abroad. It was my best decision!
+[![](https://visitcount.itsvg.in/api?id=NicholasStambaugh&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+[![Outlook](https://img.shields.io/badge/-Medium-100?style=flat&logo=Medium&logoColor=white)](https://medium.com/@iambonface)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bonface/)
 
 <div id="stats">
   <h2>Stats</h2>

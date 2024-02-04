@@ -1,9 +1,10 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a smart super app for small businesses (email me for details on Beta)
-- 🌱 I’m currently learning accounting and native mobile apps
--  💬 Ask me about compliance screening and monitoring
--  📫 How to reach me: @iambonface
--  ⚡ Fun fact: I quit my job and migrated abroad. It was my best decision!
+- 💼 I work as technical product specialist for a leading due diligence firm
+- 🔭 I’m currently building a smart super app for small businesses (email me for details on Beta)
+- 🌱 I’m also learning accounting and native mobile apps
+- 💬 Ask me about compliance screening and monitoring
+- 📫 How to reach me: @iambonface
+- ⚡  Fun fact: I quit my job and migrated abroad. It was my best decision!
 [![](https://visitcount.itsvg.in/api?id=NicholasStambaugh&label=Profile%20Views&color=11&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 [![Outlook](https://img.shields.io/badge/-Medium-100?style=flat&logo=Medium&logoColor=white)](https://medium.com/@iambonface)

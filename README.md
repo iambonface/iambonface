@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💼 I work as technical product specialist for a leading due diligence firm
+- 💼 I am an ex-technical product specialist for a due diligence firm
 - 🔭 I’m currently building a smart super app for small businesses (email me for details on Beta)
 - 🌱 I’m also learning accounting and native mobile apps
 - 💬 Ask me about compliance screening and monitoring

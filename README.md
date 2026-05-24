@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💼 I am an ex-technical product specialist for a due diligence firm
 - 🎉 I'm now building a social app [iOS,Android] with restful api
-- 🔭 I’m currently looking to connect with professionals in Tech (email me for details)
+- 🔭 I’m currently looking to connect with angel investors and professionals in Tech (email me for details)
 - 🌱 I’m also learning accounting and native mobile apps
 - 💬 Ask me about compliance screening and monitoring
 - 📫 How to reach me: @iambonface

@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 💼 I am an ex-technical product specialist for a due diligence firm
+- 🚢 In addition to software development, I'm a maritime enthusiast
 - 🎉 I'm now building a social app [iOS,Android] with restful api
 - 🔭 I’m currently looking to connect with angel investors and professionals in Tech (email me for details)
 - 🌱 I’m also learning accounting and native mobile apps

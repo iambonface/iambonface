@@ -15,12 +15,13 @@
   <h2>Stats</h2>
   <img src="https://streak-stats.demolab.com?user=iambonface&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
 </div>
+
+![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ1ZmN6NGh2aXFtaGx2enplNHozZjJiMGl5NGJpeTg4ejBjbjRvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eiFKDlrsGLtNQctnVs/giphy.gif)
+
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iambonface&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 
 </div>
-
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTQ1ZmN6NGh2aXFtaGx2enplNHozZjJiMGl5NGJpeTg4ejBjbjRvaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eiFKDlrsGLtNQctnVs/giphy.gif)
 
 ![Visitor Count](https://profile-counter.glitch.me/iambonface/count.svg)
 
